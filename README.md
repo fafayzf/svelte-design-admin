@@ -8,6 +8,8 @@ Management system based on [**svelte-design-ui**](https://github.com/fafayzf/sve
 This is a clean package
 ```sh
 npm create svelte-design-admin
+# or custom name
+npm create svelte-design-admin my-project
 ```
 
 or
